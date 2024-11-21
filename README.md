@@ -8,7 +8,7 @@
 
 
 
-🔧 Tech Stack: Python, Java, JavaScript, HTML, ServiceNow, GitHub, Miro, Discord (Bots), VSCode, and Eclipse.
+🔧 Tech Stack: Python, Java, JavaScript, HTML, SQL, ServiceNow, GitHub, Miro, Discord (Bots), VSCode, and Eclipse.
 
 
 💡 Passionate about these current projects:
