@@ -33,7 +33,7 @@
 🎯 Goals:
 
 
- - Deepen my ServiceNow expertise to bring real value to clients.
+ - Deepen my IT sec-skills alongside my ServiceNow expertise to bring real value to clients.
  - Keep growing personally and professionally while staying curious and adaptable.
 
 🚀 Let’s build, learn, and innovate together!
