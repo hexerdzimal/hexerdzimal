@@ -1,5 +1,8 @@
 # hexerdezimal
 
+🧙‍♂️ Why the name?
+It’s a play on hexadecimal and "Hexer" (the German word for "Witcher"). Because let's face it: Computer science beats magic any day—real spells don’t debug themselves! 🪄💻
+
 👨‍💻 37, tech-enthusiast, and a lifelong learner
 
 🎓 Bachelor’s in Computer Science (almost done!) with a focus on IT Security & Forensics—heading into my Master’s soon.
