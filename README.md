@@ -1,7 +1,5 @@
 # hexerdezimal
 
-🧙‍♂️ Why the name?
-It’s a play on hexadecimal and "Hexer" (the German word for "Witcher"). Because let's face it: Computer science beats magic any day—real spells don’t debug themselves! 🪄💻
 
 👨‍💻 37, tech-enthusiast, and a lifelong learner
 
@@ -30,7 +28,11 @@ It’s a play on hexadecimal and "Hexer" (the German word for "Witcher"). Becaus
 🤝 Soft skills: Teamwork is my jam, I’m a fast learner (thanks, hyperfocus!), and I love solving problems creatively.
 
 
-🐾 Beyond tech: I enjoy Qi Gong, dream of finding a sport I can stick with, and plan to travel the world.
+🐾 Beyond tech: I am a dogfather and a father of two amazing daughters. I enjoy Qi Gong, dream of finding a sport I can stick with, and plan to travel the world.
+
+🧙‍♂️ Why the name "hexerdzimal"?
+
+   It’s a play on hexadecimal and "Hexer" (the German word for "Witcher"). Because let's face it: Computer science beats magic any day—real spells don’t debug themselves! 🪄💻
 
 
 🎯 Goals:
