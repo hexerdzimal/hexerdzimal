@@ -32,7 +32,7 @@
 
 🧙‍♂️ Why the name "hexerdzimal"?
 
-   It’s a play on hexadecimal and "Hexer" (the German word for "Witcher"). Because let's face it: Computer science beats magic any day—real spells don’t debug themselves! 🪄💻. Ah yeah... and because of my long hair?!
+   It’s a play on hexadecimal and "Hexer" (the German word for "Witcher"). Because let's face it: Computer science beats magic any day—real spells start with method identifiers! 🪄💻. Ah yeah... and because of my long hair?!
 
 
 🎯 Goals:
