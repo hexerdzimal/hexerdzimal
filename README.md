@@ -15,9 +15,11 @@
 💡 Passionate about these current projects:
 
 
- - Creating a polyglot data tool.
+ - Creating a polyglot data tool,
+
+ - Rebuild enigma in python, because "why not",
    
- - Building supply-chain security monitoring solutions for software development.
+ - Building supply-chain security monitoring solutions for software development,
    
  - Enhancing security frameworks with ServiceNow.
    
