@@ -5,7 +5,7 @@
 
 🎓 Bachelor’s in Computer Science (almost done!) with a focus on IT Security & Forensics—heading into my Master’s soon.
 
-💼 By day, I’m a ServiceNow Consultant diving into SecOps and platform solutions.
+💼 By day, I’m a ServiceNow Consultant diving into GRC, VR and SecOps solutions.
 
 
 
